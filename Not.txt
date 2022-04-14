@@ -1,0 +1,6 @@
+Baþka ortamda çalýþtýrmak için;
+- python_apps klasörü kopyalanýr.
+- setup.bat çalýþtýrýlýr.
+- Python kurulum  path ayarý olacak þekilde kurulum yapýlmalýdýr. cmd python yaz çalýþýr þekilde
+- cmd python_apps klasöründe pip install psycopg2 yapýlýr.
+- workspace.xml  olmalý.
